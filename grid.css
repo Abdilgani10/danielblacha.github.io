@@ -41,7 +41,9 @@
 	margin: 5px 10px;
 	font-family: 'Yatra One', cursive;
 }
-
+.marListOne{
+	margin: 10px 10px;
+}
 .padList{
   padding: 0 0 18px 0;
 }
