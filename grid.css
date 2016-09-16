@@ -1,7 +1,6 @@
 .row{
 	font-size: 0px;
 	margin: 0 0;
-	font-family: "monospace";
 }
 
 .box{
@@ -39,7 +38,6 @@
 
 .marList{
 	margin: 5px 10px;
-	font-family:"Comic Sans MS", cursive, sans-serif
 }
 .marListOne{
 	margin: 10px 10px;
