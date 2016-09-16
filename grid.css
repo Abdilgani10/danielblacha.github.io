@@ -1,7 +1,7 @@
 .row{
 	font-size: 0px;
 	margin: 0 0;
-	font-family: 'Yatra One', cursive;
+	font-family: "Comic Sans MS", cursive, sans-serif
 }
 
 .box{
@@ -39,7 +39,7 @@
 
 .marList{
 	margin: 5px 10px;
-	font-family: 'Yatra One', cursive;
+	font-family:"Comic Sans MS", cursive, sans-serif
 }
 .marListOne{
 	margin: 10px 10px;
