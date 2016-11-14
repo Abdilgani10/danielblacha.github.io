@@ -87,7 +87,7 @@ table {
  font-family:"Comic Sans MS", cursive, sans-serif
 }
 
-img {
+#image {
   width: 180px;
   margin: -27px;
   margin-left: 50px;
@@ -95,3 +95,17 @@ img {
   border-radius: 5px;
   border: 5px solid white;
 }
+
+#iconpl {
+  width: 30px;
+  margin-left: 550px;
+  position:absolute;
+}
+
+#iconen {
+  width: 30px;
+  margin-left: 590px;
+  position:absolute;
+}
+
+
