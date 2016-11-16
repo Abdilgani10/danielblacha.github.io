@@ -53,6 +53,9 @@
 .fl{
 	float: left;
 }
+.fll{
+	text-align: center;
+}
 
 #fo ul li {
 	display: inline-block;
