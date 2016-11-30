@@ -15,7 +15,6 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -25,7 +24,6 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-  text-rendering: optimizeSpeed;
   line-height: 18px;
 }
 
@@ -56,8 +54,7 @@ table {
   max-width: 960px;
   margin: 0 auto;
 }
-.fa{
-  text-rendering: optimizeSpeed;
+
 }
 #resume {
   width: 960px;
