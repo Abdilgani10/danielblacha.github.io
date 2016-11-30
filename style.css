@@ -15,9 +15,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
   display: block;
@@ -55,7 +53,6 @@ table {
   margin: 0 auto;
 }
 
-}
 #resume {
   width: 960px;
   margin: 0 auto;
@@ -105,5 +102,4 @@ table {
   width: 30px;
   margin-left: 590px;
   position:absolute;
-
 }
