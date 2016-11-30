@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
+  text-rendering: auto;
   line-height: 18px;
 }
 
